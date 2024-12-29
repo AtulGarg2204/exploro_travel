@@ -5,10 +5,7 @@
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "cra-template": "1.2.0",
-<<<<<<< HEAD
     "dotenv": "^16.4.7",
-=======
->>>>>>> 54c2ffcbd18a9a70ad1e24d278b12596a6f190e1
     "framer-motion": "^11.15.0",
     "lucide-react": "^0.469.0",
     "my-ui-library": "^0.0.6",
